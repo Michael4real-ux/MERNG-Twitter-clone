@@ -5,10 +5,10 @@ Twitter clone with react,typescript,Graphql,prisma,Appolo client,Nodejs,css,reac
 - React
 - TypeScript
 - GraphQL
--Prisma
--Apollo Client
+- Prisma
+- Apollo Client
 - Node.js
 - PostgreSQL
--CSS
--Formik
--React Router
+- CSS
+- Formik
+- React Router
