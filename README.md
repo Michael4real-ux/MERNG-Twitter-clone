@@ -1,4 +1,4 @@
-# MERNG-Twitter-clone
+# MERNG-PERNG-Twitter-clone
 Twitter clone with react,typescript,Graphql,prisma,Apolo client,Nodejs,css,react-router,css,formik
 
 ## Technologies
